@@ -2,7 +2,7 @@
 
 # Hey there 👋 I'm Ravi Singh
 
-### Backend Engineer 
+### Reviewer & Chat Executive at RapidSurge Innovations | Learning Backend Development (Python, FastAPI, MongoDB)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-singh-1b6ab4319/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravi-ai-dev)
@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-- 🏢 **Backend Engineer** at RapidSurge Innovations Private Limited, Gurgaon
+- 🏢 **Reviewer & Chat Executive  at RapidSurge Innovations Private Limited, Gurgaon
 - 🤖 Building **autonomous AI agents** that monitor, debug, and fix production systems
 - ⚡ Specialize in **FastAPI**, **MongoDB**, **Gemini AI**, and **cloud-native** architectures
 - 🔧 Passionate about turning complex manual workflows into fully automated pipelines
