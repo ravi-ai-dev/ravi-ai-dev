@@ -2,12 +2,12 @@
 
 # Hey there 👋 I'm Ravi Singh
 
-### Reviewer & Backend developer  at RapidSurge Innovations 
+### Reviewer & Chat Executive (AI Quality) — transitioning into Backend Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-singh-1b6ab4319/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravi-ai-dev)
 
-*Building intelligent systems that think, act, and self-heal — so humans don't have to.*
+*Learning to build backend systems, one honest commit at a time.*
 
 </div>
 
@@ -15,8 +15,10 @@
 
 ### 🧠 About Me
 
-🏢 Reviewer & Backend developer (AI Quality) at RapidSurge Innovations, Gurgaon
-🌱 Learning backend development — FastAPI, MongoDB, building production-style projects independently
+🏢 Reviewer & Chat Executive (AI Quality) at RapidSurge Innovations, Gurgaon — working on AI quality review for a WhatsApp-based pharmacist bot, plus pharmacy catalog operations
+🌱 Self-studying backend development — Python, FastAPI, MongoDB — with the goal of moving into a backend developer role
+🎓 Pursuing an online MCA (Full Stack Development) from Chandigarh University Online
+🛠️ Currently building **InstaMed**, a production-style pharmacy backend project, to learn by doing
 
 ---
 
@@ -24,23 +26,35 @@
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) javascript ,SQL 
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) | Node.js 
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **AI / ML** | ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white) |
-| **Cloud** | ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Integrations** | ![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white) ![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white) |
+| **Primary Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Also familiar with** | JavaScript, SQL, Docker, Google Sheets/Apps Script |
+| **Deployment** | ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) |
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Project
+
+#### 💊 [InstaMed](https://github.com/ravi-ai-dev) — Pharmacy Backend System
+A production-style backend for a pharmacy platform, built to practice real-world API design and database modeling.
+
+`Python` `FastAPI` `MongoDB` `Motor (async)` `Pydantic`
+
+- ✅ Modules complete: Medicine, Store, Inventory, PincodeZone, Search API
+- 🚧 In progress: Order module
+- Built module-by-module following the Pydantic model → APIRouter → main.py pattern, with real debugging (variable shadowing, field mismatches, credential handling, etc.)
+
+---
+
+### 📦 Other Projects
 
 <table>
 <tr>
 <td width="50%">
 
 #### [🤖 Rio Auto-Debugger](https://github.com/ravi-ai-dev/rio-auto-debugger)
-**Autonomous Self-Healing AI Agent** that monitors production logs 24/7, detects errors using Gemini AI, auto-generates code fixes, creates GitHub PRs, and triggers rollbacks — all autonomously.
+An experimental log-monitoring tool that uses Gemini AI to help detect errors and suggest fixes.
 
 `Python` `FastAPI` `Gemini AI` `MongoDB` `Telegram`
 
@@ -50,7 +64,7 @@
 <td width="50%">
 
 #### [⏱️ NYC ETA Predictor](https://github.com/ravi-ai-dev/eta-challenge-submission)
-**ML-powered ETA prediction** for NYC taxi rides. Achieved **MAE 329.5s** (improved from baseline 359.2s) using XGBoost with custom feature engineering for traffic patterns.
+ML-based ETA prediction for NYC taxi rides. Achieved MAE 329.5s (improved from a 359.2s baseline) using XGBoost with custom feature engineering.
 
 `Python` `XGBoost` `Scikit-learn` `Docker`
 
@@ -62,7 +76,7 @@
 <td width="50%">
 
 #### [🔗 My First API](https://github.com/ravi-ai-dev/my-first-api)
-**Cloud-deployed REST API** built with FastAPI + MongoDB. Features skill management endpoints with Swagger docs. Deployed live on Railway cloud.
+My first cloud-deployed REST API — FastAPI + MongoDB, with Swagger docs, deployed on Railway.
 
 `Python` `FastAPI` `MongoDB` `Railway`
 
@@ -72,7 +86,7 @@
 <td width="50%">
 
 #### 🧪 More Coming Soon...
-Currently working on new AI-powered automation tools. Stay tuned!
+Building InstaMed's Order module next. Stay tuned!
 
 </td>
 </tr>
@@ -94,15 +108,15 @@ Currently working on new AI-powered automation tools. Stay tuned!
 
 ### 🎯 Current Focus
 
-- 🔭 Building **autonomous AI agents** for production infrastructure
-- 🌱 Exploring **LLM-powered DevOps** automation
-- 💼 Open for **backend engineering** and **AI/ML** roles
+- 🔭 Building **InstaMed**, a pharmacy backend, to deeply learn FastAPI + MongoDB
+- 🌱 Studying for a transition from AI Quality Review into Backend Development
+- 💼 Open to **Python/FastAPI backend developer** roles (intern or junior)
 
 ---
 
 <div align="center">
 
-*"Writing clean code to automate complex problems."* ✨
+*"Learning in public, one working module at a time."* ✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ravi-ai-dev&color=3B82F6&style=flat-square&label=Profile+Views)
 
