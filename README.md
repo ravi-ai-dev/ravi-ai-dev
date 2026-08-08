@@ -2,7 +2,7 @@
 
 # Hey there 👋 I'm Ravi Singh
 
-### Reviewer & Chat Executive (AI Quality) — transitioning into Backend Development
+### Reviewer & Software Engineer  (AI Quality) — transitioning into Backend Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-singh-1b6ab4319/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravi-ai-dev)
@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-🏢 Reviewer & Chat Executive (AI Quality) at RapidSurge Innovations, Gurgaon — working on AI quality review for a WhatsApp-based pharmacist bot, plus pharmacy catalog operations
+🏢 Reviewer & Software Engineer (AI Quality) at RapidSurge Innovations, Gurgaon — working on AI quality review for a WhatsApp-based pharmacist bot, plus pharmacy catalog operations
 🌱 Self-studying backend development — Python, FastAPI, MongoDB — with the goal of moving into a backend developer role
 🎓 Pursuing an online MCA (Full Stack Development) from Chandigarh University Online
 🛠️ Currently building **InstaMed**, a production-style pharmacy backend project, to learn by doing
